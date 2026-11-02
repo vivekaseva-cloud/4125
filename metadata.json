@@ -1,0 +1,6 @@
+{
+  "name": "Neti Bharatham News (నేటి భారతం)",
+  "description": "Multi-lingual Telugu, Hindi & English Hyper-local Indian News Portal featuring National, State, District & Mandal news, Video feeds, Reporter Network with Admin approval, and Private Ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
